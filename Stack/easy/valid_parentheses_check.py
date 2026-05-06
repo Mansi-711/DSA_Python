@@ -12,6 +12,6 @@ def valid_parentheses(p):
 
 p = '[{()}]'        
 print(valid_parentheses(p))
-lis = input('enter a parentheses to check')
+lis = input('enter a parentheses to check: ')
 print(valid_parentheses(lis))
     
